@@ -1,5 +1,5 @@
 # Jaehoon Kim
-- jaeh8nkim@sogang.ac.kr
+- [jaeh8nkim@sogang.ac.kr](mailto:jaeh8nkim@sogang.ac.kr)
 - ✨ hydrogen and helium → ⭐ stars → 🌏 earth → 👫 humans → 👣 giants → ⚡🧠 intelligence
 
 ## Timeline
