@@ -1,4 +1,17 @@
 # Jaehoon Kim
+
+<style>
+.headshot{
+  float:right;
+  width:clamp(100px,33%,250px);  /* w = min(max(100,0.33 W),250) */
+  margin:0 0 1em 1em;  /* top right bottom left */
+  aspect-ratio:1/1;  /* width/height */
+  height:auto;
+  object-fit:cover;
+}
+</style>
+<img src="assets/headshot.jpg" alt="Headshot" class="headshot">
+
 - [jaeh8nkim@sogang.ac.kr](mailto:jaeh8nkim@sogang.ac.kr)
 - ✨ hydrogen and helium → ⭐ stars → 🌏 earth → 👫 humans → 👣 giants → ⚡🧠 intelligence
 
