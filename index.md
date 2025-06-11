@@ -3,9 +3,9 @@
 <style>
 .headshot{
   float:right;
-  width:clamp(100px,33%,200px);  /* w = min(max(100,0.33 W),200) */
-  margin:0 0 1em 1em;  /* top right bottom left */
-  aspect-ratio:1/1;  /* width/height */
+  width:clamp(100px,33%,200px);
+  margin:0 0 1em 1em;
+  aspect-ratio:1/1;
   height:auto;
   object-fit:cover;
 }
