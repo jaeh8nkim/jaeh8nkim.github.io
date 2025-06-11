@@ -13,6 +13,7 @@
 <img src="assets/headshot.jpg" alt="Headshot" class="headshot">
 
 - [jaeh8nkim@sogang.ac.kr](mailto:jaeh8nkim@sogang.ac.kr)
+- I'm an MS student in AI at Yonsei University, advised by Professor [Dongha Lee](https://donalee.github.io/).
 - ✨ hydrogen and helium → ⭐ stars → 🌏 earth → 👫 humans → 👣 giants → ⚡🧠 intelligence
 
 ## Timeline
