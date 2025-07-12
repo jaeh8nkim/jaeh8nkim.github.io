@@ -12,7 +12,9 @@
 </style>
 <img src="assets/headshot.jpg" alt="Headshot" class="headshot">
 
-- [jaeh8nkim@sogang.ac.kr](mailto:jaeh8nkim@sogang.ac.kr), [github.com/jaeh8nkim](https://github.com/jaeh8nkim), [hf.co/jaeh8nkim](https://huggingface.co/jaeh8nkim)
+- [jaeh8nkim@sogang.ac.kr](mailto:jaeh8nkim@sogang.ac.kr)
+- [github.com/jaeh8nkim](https://github.com/jaeh8nkim)
+- [hf.co/jaeh8nkim](https://huggingface.co/jaeh8nkim)
 - I'm an MS student in AI at Yonsei University, advised by Professor [Dongha Lee](https://donalee.github.io/).
 - ✨ hydrogen and helium → ⭐ stars → 🌏 earth → 👫 humans → 👣 giants → ⚡🧠 intelligence
 
