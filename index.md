@@ -20,4 +20,4 @@
 ## Publications
 
 ## Presentations
-- [Recent Advances in Reasoning Research: Instilling Reasoning Abilities with SFT, Eliciting Reasoning Capabilities with RL](https://drive.google.com/file/d/11A_5X3g2rCioa1nvTKJB1sjA5MIRCpLC/view?usp=drive_link)
+- [Recent Advances in Reasoning Research: Instilling Reasoning Abilities with SFT, Eliciting Reasoning Capabilities with RL](https://drive.google.com/file/d/1Sqe_zFRG-iTLHlio5TnSh97dX_3WoWLw/view?usp=drive_link)
