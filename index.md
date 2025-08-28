@@ -18,3 +18,6 @@
 - [Email](mailto:jaeh8nkim@sogang.ac.kr) / [GitHub](https://github.com/jaeh8nkim) / [LinkedIn](https://www.linkedin.com/in/jaeh8nkim)
 
 ## Publications
+
+## Presentations
+- [Recent Advances in Reasoning Research: Instilling Reasoning Abilities with SFT, Eliciting Reasoning Capabilities with RL](https://drive.google.com/file/d/11A_5X3g2rCioa1nvTKJB1sjA5MIRCpLC/view?usp=drive_link)
