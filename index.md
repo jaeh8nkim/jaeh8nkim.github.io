@@ -18,6 +18,10 @@
 - [Email](mailto:jaeh8nkim@yonsei.ac.kr) / [GitHub](https://github.com/jaeh8nkim) / [LinkedIn](https://www.linkedin.com/in/jaeh8nkim)
 
 ## Publications
+- In Their Own Words: Reasoning Traces Tailored for Small Models Make Them Better Reasoners
+  - Jaehoon Kim, Kwangwook Seo, Dongha Lee
+  - Preprint (arXiv), 2025
+  - paper / code / dataset
 
 ## Presentations
 - Recent Advances in Reasoning Research: Instilling Reasoning Abilities with SFT, Eliciting Reasoning Capabilities with RL
