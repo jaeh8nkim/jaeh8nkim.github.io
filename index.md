@@ -21,7 +21,7 @@
 - In Their Own Words: Reasoning Traces Tailored for Small Models Make Them Better Reasoners
   - **Jaehoon Kim**, Kwangwook Seo, Dongha Lee
   - Preprint (arXiv), 2025
-  - [paper](https://arxiv.org/abs/2509.22230) / code / dataset
+  - [paper](https://arxiv.org/abs/2509.22230) / [code](https://github.com/jaeh8nkim/equigranular) / [datasets](https://huggingface.co/collections/jaeh8nkim/rsd-datasets-68db67c666578e64c6b17ccf) / [models](https://huggingface.co/collections/jaeh8nkim/rsd-models-68db6cc024a75590993ffb7d)
 
 ## Presentations
 - Recent Advances in Reasoning Research: Instilling Reasoning Abilities with SFT, Eliciting Reasoning Capabilities with RL
