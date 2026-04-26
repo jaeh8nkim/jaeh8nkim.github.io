@@ -26,5 +26,3 @@
 ## Presentations
 - Policy Optimization for LLMs: From One Loss to Scalable Recipes
   - [slides](https://jaeh8nkim.github.io/slides/260415-policy-optimization.html)
-- Recent Advances in Reasoning Research: Instilling Reasoning Abilities with SFT, Eliciting Reasoning Capabilities with RL
-  - [slides](https://drive.google.com/file/d/1Sqe_zFRG-iTLHlio5TnSh97dX_3WoWLw/view?usp=drive_link)
