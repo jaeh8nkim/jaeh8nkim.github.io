@@ -17,7 +17,7 @@
   - To my current understanding, this includes
     - **instilling reasoning abilities** through supervised fine-tuning on reasoning traces that exhibit dense and transparent exploration and reflection, as well as
     - **eliciting reasoning capacities** latent within pretrained models through reinforcement learning from experience in carefully designed interactive environments.
-  - My work lies at the **intersection of these approaches**, developing *[demonstrations that adapt to how a learner naturally reasons](https://arxiv.org/abs/2509.22230)* and *[learning environments that provide richer guidance](https://arxiv.org/abs/2605.06188)* throughout the reasoning process, with inspiration from the cognitive processes of the human mind.
+  - My work lies at the **intersection of these approaches**, developing *[demonstrations that align with how a learner naturally reasons](https://arxiv.org/abs/2509.22230)* and *[learning environments that provide richer guidance](https://arxiv.org/abs/2605.06188)* throughout the reasoning process, with inspiration from the cognitive processes of the human mind.
 - ✨ hydrogen and helium → ⭐ stars → 🌏 earth → 👫 humans → 👣 giants → ⚡🧠 intelligence
 - [Email](mailto:jaeh8nkim@yonsei.ac.kr) / [GitHub](https://github.com/jaeh8nkim) / [LinkedIn](https://www.linkedin.com/in/jaeh8nkim)
 
