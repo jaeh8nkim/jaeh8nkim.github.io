@@ -15,7 +15,7 @@
 - I'm an MS student in AI at Yonsei University, advised by Professor [Dongha Lee](https://donalee.github.io/) in the [DLI Lab](https://dli.yonsei.ac.kr/). Previously, I received my BS in Physics and Computer Science from Sogang University.
 - I’m interested in anything that helps thinking machines think deeper.
   - To my current understanding, this includes
-    - **instilling reasoning abilities** through supervised fine-tuning on reasoning traces that exhibit dense and transparent exploration and reflection, as well as
+    - **instilling reasoning abilities** through supervised fine-tuning on reasoning traces that exhibit exploration and reflection in their thought processes, as well as
     - **eliciting reasoning capacities** latent within pretrained models through reinforcement learning from experience in carefully designed interactive environments.
   - My work lies at the **intersection of these approaches**, developing *[demonstrations that align with how a learner naturally reasons](https://arxiv.org/abs/2509.22230)* and *[learning environments that provide richer guidance](https://arxiv.org/abs/2605.06188)* throughout the reasoning process, with inspiration from the cognitive processes of the human mind.
 - ✨ hydrogen and helium → ⭐ stars → 🌏 earth → 👫 humans → 👣 giants → ⚡🧠 intelligence
