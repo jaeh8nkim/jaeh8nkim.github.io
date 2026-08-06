@@ -16,7 +16,7 @@
 - I’m interested in anything that helps thinking machines think deeper.
   - To my current understanding, this includes
     - **instilling reasoning abilities** through supervised fine-tuning on reasoning traces that exhibit exploration and reflection in their thought processes, as well as
-    - **eliciting reasoning capacities** latent within models through reinforcement learning from experience in carefully designed interactive environments.
+    - **eliciting reasoning capacities** latent within the models through reinforcement learning from experience in carefully designed interactive environments.
   - My work lies at the **intersection of these approaches**, developing *[demonstrations that align with how a learner naturally reasons](https://arxiv.org/abs/2509.22230)* and *[learning environments that provide richer guidance](https://arxiv.org/abs/2605.06188)* throughout the reasoning process, with inspiration from the cognitive processes of the human mind.
 - ✨ hydrogen and helium → ⭐ stars → 🌏 earth → 👫 humans → 👣 giants → ⚡🧠 intelligence
 - [Email](mailto:jaeh8nkim@yonsei.ac.kr) / [GitHub](https://github.com/jaeh8nkim) / [LinkedIn](https://www.linkedin.com/in/jaeh8nkim)
