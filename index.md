@@ -25,12 +25,12 @@
 - OPSD Compresses What RLVR Teaches: A Post-RL Compaction Stage for Reasoning Models
   - **Jaehoon Kim**, Dongha Lee
   - Preprint (arXiv), 2026
-  - [paper](https://arxiv.org/abs/2605.06188) / [code](https://github.com/jaeh8nkim/compressor)
+  - [paper](https://arxiv.org/abs/2605.06188) / [code](https://github.com/jaeh8nkim/hindsight)
 
 - In Their Own Words: Reasoning Traces Tailored for Small Models Make Them Better Reasoners
   - **Jaehoon Kim**, Kwangwook Seo, Dongha Lee
   - Preprint (arXiv), 2025
-  - [paper](https://arxiv.org/abs/2509.22230) / [code](https://github.com/jaeh8nkim/equigranular)
+  - [paper](https://arxiv.org/abs/2509.22230) / [code](https://github.com/jaeh8nkim/interleaved)
 
 ## Presentations
 - Policy Optimization for LLMs: From One Loss to Scalable Recipes
