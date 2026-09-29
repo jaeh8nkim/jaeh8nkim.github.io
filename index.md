@@ -22,7 +22,7 @@
 - [Email](mailto:jaeh8nkim@yonsei.ac.kr) / [GitHub](https://github.com/jaeh8nkim) / [LinkedIn](https://www.linkedin.com/in/jaeh8nkim)
 
 ## Publications
-- OPSD Compresses What RLVR Teaches: A Post-RL Compaction Stage for Reasoning Models
+- Hindsight Compacts but Does Not Repair: Rethinking On-Policy Self-Distillation in Reasoning Models
   - **Jaehoon Kim**, Dongha Lee
   - Preprint (arXiv), 2026
   - [paper](https://arxiv.org/abs/2605.06188) / [code](https://github.com/jaeh8nkim/hindsight)
