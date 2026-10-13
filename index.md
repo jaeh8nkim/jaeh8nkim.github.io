@@ -31,8 +31,3 @@
   - **Jaehoon Kim**, Kwangwook Seo, Dongha Lee
   - Preprint (arXiv), 2025
   - [paper](https://arxiv.org/abs/2509.22230) / [code](https://github.com/jaeh8nkim/interleaved)
-
-## Slides
-- Policy Optimization for LLMs: From One Loss to Scalable Recipes
-  - [slides](https://jaeh8nkim.github.io/slides/260415-policy-optimization.html)
-
